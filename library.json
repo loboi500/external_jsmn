@@ -1,16 +1,3 @@
-{
-  "name": "jsmn",
-  "keywords": "json",
-  "description": "Minimalistic JSON parser/tokenizer in C. It can be easily integrated into resource-limited or embedded projects",
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/zserge/jsmn.git"
-  },
-  "frameworks": "*",
-  "platforms": "*",
-  "examples": [
-    "example/*.c"
-  ],
-  "exclude": "test"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27867dc70f2caf42d40cd9ad042f2c3c716dde7a6bf9595cb4b750d582385e4
+size 368
